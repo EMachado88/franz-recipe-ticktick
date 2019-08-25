@@ -1,0 +1,13 @@
+{
+  "id": "ticktick",
+  "name": "TickTick",
+  "version": "1.0.0",
+  "description": "TickTick",
+  "main": "index.js",
+  "author": "Emanuel Machado <emachado@emachado.pt>",
+  "license": "MIT",
+  "repository": "https://github.com/EMachado88/franz-recipe-ticktick",
+  "config": {
+    "serviceURL": "https://ticktick.com/"
+  }
+}
