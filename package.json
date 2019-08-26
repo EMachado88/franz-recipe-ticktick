@@ -8,6 +8,6 @@
   "license": "MIT",
   "repository": "https://github.com/EMachado88/franz-recipe-ticktick",
   "config": {
-    "serviceURL": "https://ticktick.com/"
+    "serviceURL": "https://ticktick.com/#q/all/today"
   }
 }
